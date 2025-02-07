@@ -636,6 +636,8 @@ input::placeholder {
   .btn-dos-container{
     width: 32.41%;
     height: 54px;
+    max-height: 54px;
+    min-width: 138px;
     background-color:rgb(47, 49, 50);
     display: flex;
     justify-content: center;
